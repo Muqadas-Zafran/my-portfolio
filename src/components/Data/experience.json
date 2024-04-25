@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "role": "Senior Computer Instructor",
+    "organisation": "At Muhammad Ali Public School",
+    "startDate": "From Jan, 2017",
+    "endDate": "To Dec, 2019",
+    "location": "Chakri Road,Rawalpindi",
+    "experiences": [
+      "Instructed C,C++,HTML"
+    ]
+  },
+  {
+    "id": 2,
+    "role": "Senior Computer Instructor",
+    "organisation": "At Future Foundation School And College",
+    "startDate": "From Jan, 2020",
+    "endDate": "To Dec, 2023",
+    "location": "Chakri Road, Rawalpindi",
+    "experiences": [
+      "Instructed C,C++,HTML"
+    ]
+  }
+ 
+ 
+]

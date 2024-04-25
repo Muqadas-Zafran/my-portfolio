@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+  color: rgb(249, 204, 1);
+  padding: 0;
+  margin: 0;
+}
+.active{
+ background: #F9CC01;
+ color: black;
+}
+body{
+  background-color: #151414;
+  min-height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+}
+.right .img img{
+  animation-name: self;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+.skills .items .item{
+  width: calc(33.33%);
+}
+
+
+@keyframes self{
+  0%{
+    border-color: rgb(244, 247, 97);
+    transform: translate(0,0px);
+    box-shadow: 10px 10px 100px 50px rgb(244, 247, 97);
+
+  }
+  25%{
+    border-color: rgb(241, 206, 45);
+    box-shadow: 10px 10px 100px 50px rgb(247, 203, 6);
+
+  }
+  50%{
+    border-color: #89B6C6;
+    transform: translate(0,10px);
+    box-shadow: 10px 10px 100px 50px #89B6C6
+
+  }
+  75%{
+    border-color: rgb(242, 255, 0);
+    box-shadow: 10px 10px 100px 50px rgb(242, 255, 0);
+
+  }
+  100%{
+    border-color: #B39688;
+    transform: translate(0,-0px);
+    box-shadow: 10px 10px 100px 50px #B39688;
+
+  }
+}
+nav ul.open{
+  display: flex;
+}
+
+
+
+
+
+
+
