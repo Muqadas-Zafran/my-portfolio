@@ -5,6 +5,7 @@
   color: rgb(249, 204, 1);
   padding: 0;
   margin: 0;
+  background-color: rgb(103, 9, 109);
 }
 .active{
  background: #F9CC01;
