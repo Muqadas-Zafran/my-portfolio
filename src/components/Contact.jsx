@@ -29,7 +29,7 @@ const Contact = () => {
         <a href='https://www.google.com' target='_blank'className="items bg-[#0b0b0b] hover:bg-[#1d1d1d] h-[70px] w-[70px] flex justify-center items-center rounded-full border-2 border-[#f6cd19] shadow-xl hover:shadow-[#534f24]">
         <FaXTwitter className='size-8'/>
         </a>
-        <a href='https://github.com/Muqadas-Zafran'className="items bg-[#0b0b0b] hover:bg-[#1d1d1d] h-[70px] w-[70px] flex justify-center items-center rounded-full border-2 border-[#f6cd19] shadow-xl hover:shadow-[#534f24]">
+        <a href='https://github.com/Muqadas-Zafran?tab=repositories'className="items bg-[#0b0b0b] hover:bg-[#1d1d1d] h-[70px] w-[70px] flex justify-center items-center rounded-full border-2 border-[#f6cd19] shadow-xl hover:shadow-[#534f24]">
         <FaGithub className='size-8'/>
         </a>
         <a href='mailto:alihassan8sep@gmail.com'className="items bg-[#0b0b0b] hover:bg-[#1d1d1d] h-[70px] w-[70px] flex justify-center items-center rounded-full border-2 border-[#f6cd19] shadow-xl hover:shadow-[#534f24]">
