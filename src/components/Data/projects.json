@@ -20,7 +20,7 @@
     "title": "My Portfolio",
     "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
     "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
+    "Link": "https://its-my-portfolio495.netlify.app",
     "source": "https://www.github.com"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Daily Goals App",
     "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
     "description": "This project is being developed with complete React js.",
-    "demo": "https://daily-goals-app.netlify.app",
+    "Link": "https://daily-goals-app.netlify.app",
     "source": "https://github.com/Muqadas-Zafran/Daily-Goals.git"
   }
  
